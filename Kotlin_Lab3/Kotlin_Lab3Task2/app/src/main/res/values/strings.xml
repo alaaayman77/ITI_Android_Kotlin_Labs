@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin_Lab3Task2</string>
+    <string name="title_activity_display">DisplayActivity</string>
+</resources>
